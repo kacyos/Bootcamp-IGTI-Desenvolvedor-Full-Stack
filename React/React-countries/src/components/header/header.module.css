@@ -1,0 +1,21 @@
+.flexRow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 80px;
+}
+
+.divInfo{
+    margin-bottom: 40px;
+}
+
+.info {
+   min-width: 28%;
+   margin-left: 10px;
+   border: 1px solid rgba(3, 189, 149, 0.794);
+   background-color: rgba(3, 189, 149, 0.13);
+   border-radius: 5px;
+   text-align: center;
+   padding: 10px;
+}

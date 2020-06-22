@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Cores RGB</title>
+  </head>
+  <body>
+    <div id="div-inputs">
+      <div>
+        <label class="lbl-red">(R) Vermelho</label>
+        <input id="red" type="range" min="0" max="255" />
+        <input class="value" id="value-red" type="text" disabled />
+      </div>
+
+      <div>
+        <label class="lbl-green">(G) Verde</label>
+        <input id="green" type="range" min="0" max="255" />
+        <input class="value" id="value-green" type="text" readonly disabled />
+      </div>
+
+      <div>
+        <label class="lbl-blue">(B) Azul</label>
+        <input id="blue" type="range" min="0" max="255" />
+        <input class="value" id="value-blue" type="text" readonly disabled />
+      </div>
+    </div>
+
+    <div id="screen"></div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>

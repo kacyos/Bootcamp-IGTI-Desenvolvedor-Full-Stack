@@ -1,0 +1,53 @@
+body{
+    margin-top: 3%;
+    margin-left: 3%;    
+}
+.lbl-red{
+    color: red;
+    font-weight: bold;
+}
+.lbl-green{
+    color: green;
+    font-weight: bold;
+}
+.lbl-blue{
+    color: blue;
+    font-weight: bold;
+}
+
+
+div{
+    margin-bottom: 10px;
+    vertical-align: middle;
+}
+
+#div-inputs{
+    margin-top: 60px;
+}
+
+#red{
+    vertical-align: middle;
+}
+
+#green{
+    margin-left: 25px;
+    vertical-align: middle;
+}
+
+#blue{
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+.value{
+    width: 40px;
+}
+
+#screen{
+    border: 1px solid #ccc;
+    padding: 10%;
+    margin: 20px;
+    width: 5%;
+    height: 5%;
+    border-radius: 60%;
+}
