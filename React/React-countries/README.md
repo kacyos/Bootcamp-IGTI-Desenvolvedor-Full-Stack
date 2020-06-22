@@ -1,5 +1,7 @@
 Projeto pesquisa de países utiliando a API "https://restcountries.eu/rest/v2/all" com React
 
+![React-countries](react-countries.gif?raw=true "React-countries")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
