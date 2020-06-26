@@ -1,3 +1,18 @@
+Instruções:
+
+Pelo prompt de comando navegar até a pasta frontend e na pasta backend e rodar o comando yarn,
+após o término da instalação rodar o comando yarn add react-flip-move.
+Após tudo instalado rodar o backend com npm start e depois rodar o frontend com yarn start.
+
+
+Instructions:
+
+From the command prompt navigate to the frontend folder and the backend folder and run the yarn command,
+after the installation is finished, run the command yarn add react-flip-move.
+After everything is installed, run the backend with npm start and then run the frontend with yarn start.
+
+Demostração:
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
